@@ -1,4 +1,4 @@
 server:
   port: 8011
 logging:
-  config: 'classpath:logback-spring-dev.xml'
+  config: 'classpath:logback-spring.xml'
